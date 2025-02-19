@@ -1,0 +1,12 @@
+#api_keys
+openai_api_key: ""
+langsmith_api_key: ""
+api_base_url: "https://api.openai.com/v1"
+
+llm_model: "gpt-4o"
+small_llm_model: "gpt-4o-mini"
+
+langsmith_configuration:
+  LANGCHAIN_TRACING_V2: True
+  LANGCHAIN_PROJECT: "Tutoring Project"
+

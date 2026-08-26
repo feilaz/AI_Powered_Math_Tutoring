@@ -1,3 +1,5 @@
+
+
 # AI-Powered Math Tutoring Platform
 
 An AI-powered mathematics tutoring system designed to provide personalized, adaptive, and guided learning experiences. This platform implements the multi-agent architecture detailed in our research paper:
@@ -49,7 +51,7 @@ langsmith_configuration:
    - Follow the instructions at https://microsoft.github.io/graphrag/get_started/
    - Place the generated files in the `rag` folder
 
-3. Run the application:
+3. Run the application from the `code` directory: `python main.py`
 
 
 ## 📁 Project Structure

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this platform in your research, please cite the AIED 2025 paper below."
+title: "AI-Powered Math Tutoring Platform"
+type: software
+authors:
+  - family-names: Kostka
+    given-names: Adam
+    orcid: "https://orcid.org/0009-0004-8174-2109"
+repository-code: "https://github.com/feilaz/AI_Powered_Math_Tutoring"
+url: "https://github.com/feilaz/AI_Powered_Math_Tutoring"
+preferred-citation:
+  type: conference-paper
+  title: "AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education"
+  authors:
+    - family-names: Chudziak
+      given-names: "Jarosław A."
+      orcid: "https://orcid.org/0000-0003-4534-8652"
+    - family-names: Kostka
+      given-names: Adam
+      orcid: "https://orcid.org/0009-0004-8174-2109"
+  collection-title: "Artificial Intelligence in Education"
+  collection-type: proceedings
+  volume: "15882"
+  start: 462
+  end: 469
+  year: 2025
+  publisher:
+    name: "Springer Nature Switzerland"
+  doi: "10.1007/978-3-031-98465-5_58"
+  url: "https://doi.org/10.1007/978-3-031-98465-5_58"

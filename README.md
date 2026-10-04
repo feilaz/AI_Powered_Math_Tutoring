@@ -1,7 +1,9 @@
 # AI-Powered Math Tutoring Platform
 
 An AI-powered mathematics tutoring system designed to provide personalized, adaptive, and guided learning experiences. This platform implements the multi-agent architecture detailed in our research paper:
-> **AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education** (Anonymous Authors, *Submitted for Anonymous Review*).
+> Jarosław A. Chudziak and Adam Kostka. **AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education.** In *Artificial Intelligence in Education (AIED 2025)*, LNCS 15882, pp. 462–469. Springer Nature Switzerland, 2025. [https://doi.org/10.1007/978-3-031-98465-5_58](https://doi.org/10.1007/978-3-031-98465-5_58).
+
+[Published paper](https://doi.org/10.1007/978-3-031-98465-5_58) · [Open-access preprint](https://arxiv.org/abs/2507.12484)
 
 ## 🌟 Key Features
 
@@ -83,10 +85,16 @@ ai-math-tutor/
 If you use this platform in your research, please cite our paper:
 
 ```bibtex
-@article{anonymous2025aimath,
-  title={AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education},
-  author={Anonymous},
-  journal={Under Review},
-  year={2025}
+@inproceedings{chudziak2025aimath,
+  author    = {Chudziak, Jaros{\l}aw A. and Kostka, Adam},
+  title     = {{AI}-Powered Math Tutoring: Platform for Personalized and Adaptive Education},
+  booktitle = {Artificial Intelligence in Education},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {15882},
+  pages     = {462--469},
+  publisher = {Springer Nature Switzerland},
+  year      = {2025},
+  doi       = {10.1007/978-3-031-98465-5_58},
+  url       = {https://doi.org/10.1007/978-3-031-98465-5_58}
 }
 ```
